@@ -10,7 +10,7 @@ This project is a practice endeavor to create a modern and responsive architectu
 - Responsive layout for various screen sizes.
 
 ## How to Run
-1. Clone the repository: `(https://github.com/GharghashtKhan/Architecture-studio.git)`
+1. Clone the repository: `https://github.com/GharghashtKhan/Architecture-studio.git`
 2. Open `index.html` in your preferred browser.
 
 ## Technologies Used
